@@ -1,3 +1,3 @@
-# GCP IAM PrivEsc Terraform Lab
+# GCP IAM Privilege Escalation Environment - Terraform
 
-This repo builds an intentionally vulnerable GCP project for testing IAM privilege escalation scanner.
+This repo builds an intentionally vulnerable GCP project for testing IAM privilege escalation scanner written in Rust.
